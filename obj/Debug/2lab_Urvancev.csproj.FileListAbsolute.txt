@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\2lab_Urvancev\bin\Debug\2lab_Urvancev.exe.config
+C:\Users\student\source\repos\2lab_Urvancev\bin\Debug\2lab_Urvancev.exe
+C:\Users\student\source\repos\2lab_Urvancev\bin\Debug\2lab_Urvancev.pdb
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\App.g.cs
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev_MarkupCompile.cache
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev_MarkupCompile.lref
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev.g.resources
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\_2lab_Urvancev.Properties.Resources.resources
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev.exe
+C:\Users\student\source\repos\2lab_Urvancev\obj\Debug\2lab_Urvancev.pdb
